@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+            <orders>
+        <i>
+            <title>
+                camera
+            </title>
+            <detail>
+                good screen
+            </detail>
+            <tradeno>
+                wallet
+            </tradeno>
+            <totalfee>
+                3785.16
+            </totalfee>
+            <time>
+                camera
+            </time>
+            <totalcount>
+                7
+            </totalcount>
+            <status>
+                mobilephone
+            </status>
+            <seller>
+                wallet
+            </seller>
+            <buyer>
+                mobilephone
+            </buyer>
+            <delivery>
+                light-weight watch
+            </delivery>
+            <paymethod>
+                powerful wallet
+            </paymethod>
+            <bill>
+                <i>
+                    <item>
+                        watch
+                    </item>
+                    <value>
+                        0.37
+                    </value>
+                </i>
+            </bill>
+        </i>
+    </orders>
+    </data>
+</root>

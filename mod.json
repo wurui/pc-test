@@ -1,0 +1,6 @@
+{
+  "name": "pc-test",
+  "version": "0.0.1",
+  "apiDependencies": ["orders"]
+}
+
