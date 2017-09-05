@@ -1,3 +1,8 @@
 .oxmod-pc-test{
 /* CSS */
+    min-height: 400px;
+    background: darkred;
+    color:#fff;
+    text-align: center;
+    line-height: 400px;
  }
